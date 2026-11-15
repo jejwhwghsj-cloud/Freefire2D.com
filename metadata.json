@@ -1,0 +1,6 @@
+{
+  "name": "Free Fire 2D - Top-Down Battle Royale",
+  "description": "An intense top-down 2D battle royale featuring shrinking blue zones, smart AI bots, dynamic loot crates, multiple weapons, and real-time combat audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
